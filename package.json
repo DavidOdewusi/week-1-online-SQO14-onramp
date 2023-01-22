@@ -8,5 +8,15 @@
   },
   "dependencies": {
     "jest": "^27.5.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DavidOdewusi/week-1-online-SQO14-onramp.git"
+  },
+  "author": "David Odewusi",
+  "bugs": {
+    "url": "https://github.com/DavidOdewusi/week-1-online-SQO14-onramp/issues"
+  },
+  "homepage": "https://github.com/DavidOdewusi/week-1-online-SQO14-onramp#readme",
+  "description": ""
 }
